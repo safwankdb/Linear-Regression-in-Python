@@ -44,7 +44,7 @@ plt.legend()
 plt.xlabel('Dose')
 plt.ylabel('Output')
 plt.savefig('Plot 1.png')
-
+plt.clf()
 
 # In[72]:
 
@@ -55,7 +55,7 @@ plt.legend()
 plt.xlabel('Energy')
 plt.ylabel('Output')
 plt.savefig('Plot 2.png')
-
+plt.clf()
 
 # In[73]:
 
